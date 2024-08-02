@@ -28,7 +28,7 @@
   "profile": {
     "name": "typicode"
   },
-  "interaction": {
+  "interaction/v1/events": {
     "v1": {
       "events": {
         "count": 2,

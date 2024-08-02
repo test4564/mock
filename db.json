@@ -1,14 +1,51 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "typicode"
+  },
+  "interaction": {
+    "v1": {
+      "events": {
+        "count": 2,
+        "page": 1,
+        "pageSize": 2,
+        "links": {},
+        "items": [
+          {
+            "id": "2c169358-6a88-47ad-8b2a-1291f8503d5e",
+            "name": "New Journey - September 13 2023 at 1.53 PM",
+            "type": "APIEvent",
+            "eventDefinitionKey": "SalesforceObj1234",
+            "dataExtensionId": "123",
+            "publishedInteractionCount": 1
+          }
+        ]
+      }
+    }
   }
 }

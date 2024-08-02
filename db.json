@@ -38,7 +38,7 @@
         "items": [
           {
             "id": "2c169358-6a88-47ad-8b2a-1291f8503d5e",
-            "name": "New Journey - September 13 2023 at 1.53 PM",
+            "name": "New Journey - September 13 2023 at 1.53 AM",
             "type": "APIEvent",
             "eventDefinitionKey": "SalesforceObj1234",
             "dataExtensionId": "123",
